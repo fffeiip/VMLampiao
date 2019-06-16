@@ -1,2 +1,2 @@
 # VMLampiao
-Classificação de cliente final ou não da VM
+Classificação de clientes finais da VM
